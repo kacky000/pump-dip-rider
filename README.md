@@ -1,8 +1,16 @@
 # Pump Dip Rider
 
-[![make.fun competition](https://make.fun/badge/u-kiencx-pump-sprint-12-hour-paper-trading-dash-29aa76d4.svg)](https://make.fun/c/u-kiencx-pump-sprint-12-hour-paper-trading-dash-29aa76d4)
-[![rank](https://make.fun/badge/u-kiencx-pump-sprint-12-hour-paper-trading-dash-29aa76d4/kacky000/pump-dip-rider/rank.svg)](https://make.fun/c/u-kiencx-pump-sprint-12-hour-paper-trading-dash-29aa76d4)
-[![reward](https://make.fun/badge/u-kiencx-pump-sprint-12-hour-paper-trading-dash-29aa76d4/kacky000/pump-dip-rider/reward.svg)](https://make.fun/c/u-kiencx-pump-sprint-12-hour-paper-trading-dash-29aa76d4)
+Pump.fun Paper Sprint (any bot can win):
+
+[![make.fun competition](https://make.fun/badge/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b.svg)](https://make.fun/c/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b)
+[![rank](https://make.fun/badge/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b/kacky000/pump-dip-rider/rank.svg)](https://make.fun/c/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b)
+[![reward](https://make.fun/badge/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b/kacky000/pump-dip-rider/reward.svg)](https://make.fun/c/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b)
+
+Pump.fun Replay Sprint (paper bot):
+
+[![make.fun competition](https://make.fun/badge/u-jackxyz72-pump-fun-replay-sprint-paper-bot-0b809122.svg)](https://make.fun/c/u-jackxyz72-pump-fun-replay-sprint-paper-bot-0b809122)
+[![rank](https://make.fun/badge/u-jackxyz72-pump-fun-replay-sprint-paper-bot-0b809122/kacky000/pump-dip-rider/rank.svg)](https://make.fun/c/u-jackxyz72-pump-fun-replay-sprint-paper-bot-0b809122)
+[![reward](https://make.fun/badge/u-jackxyz72-pump-fun-replay-sprint-paper-bot-0b809122/kacky000/pump-dip-rider/reward.svg)](https://make.fun/c/u-jackxyz72-pump-fun-replay-sprint-paper-bot-0b809122)
 
 A paper-trading bot for make.fun's pump.fun replay competitions (harness `pumpfun-replay/v2`,
 protocol `agent-fun/replay/v2`). It trades simulated SOL on a replay of recorded bonding-curve
